@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskTyler.Service", "AskTyle
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{231257AD-83C9-46E6-A1ED-F7F170D9DA76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskTyker.BL", "AskTyker.BL\AskTyker.BL.csproj", "{4430CEBA-7A62-4772-A793-DC6F821AC59A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskTyler.BL", "AskTyler.BL\AskTyler.BL.csproj", "{4430CEBA-7A62-4772-A793-DC6F821AC59A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskTyler.DataAccess", "AskTyler.DataAccess\AskTyler.DataAccess.csproj", "{C3A2F917-CE2D-4895-B82F-BE74D5D37F49}"
 EndProject
