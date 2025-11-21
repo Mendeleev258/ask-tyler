@@ -1,13 +1,39 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
 # Rider ignored files
+.idea/
 /.idea.AskTyler.iml
 /contentModel.xml
 /projectSettingsUpdater.xml
 /modules.xml
+
 # Editor-based HTTP Client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# .NET
+bin/
+obj/
+Debug/
+Release/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# PostgreSQL
+*.dump
+*.sql
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
